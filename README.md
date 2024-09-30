@@ -66,4 +66,4 @@ React: Frontend framework for building the UI.
 
 JavaScript Canvas API: (Optional) For rendering 2D graphics.
 
-CSS or Styled Components: For styling the game interface.
+CSS or Styled Components: For styling the game interface..
